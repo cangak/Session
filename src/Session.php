@@ -8,6 +8,7 @@
  * @link      https://github.com/cangak/Session
  * @since     1.0.0
  */
+namespace Cangak\Session;
 
 class Session {
 
