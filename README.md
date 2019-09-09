@@ -50,7 +50,3 @@ This project is licensed under **MIT license**. See the [LICENSE](LICENSE) file 
 ## Copyright
 
 2019 cangak,
-
-
-
-You can contact me on [Twitter](https://twitter.com/Josantonius) or through my [email](mailto:hello@josantonius.com).
