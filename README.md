@@ -41,7 +41,7 @@ atau **install it manual**:
 
 ## Quick Start
 
-##usage
+## Usage
 
 ## License
 
